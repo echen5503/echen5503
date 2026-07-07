@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Edwin 👋
 
-<!--
-**echen5503/echen5503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HS Researcher working in AI4Science and Quantitative Finance. I maintain IIMOC and deepXDE for fun.
 
-Here are some ideas to get you started:
+Diffusion4PDE @ Lu Group    (Present)
+Polymarket Analysis w/ IMC  (Present)
+Fracking @ Lu Group         '25-26
+AI Eval @ UCB Sky           '25-26
+Algorithms, SNN @ tlab      '24-26
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me
+
+- 📫 `echen1ffa@gmail.com`
+- 🔗 [linkedin](https://www.linkedin.com/in/edwin-chen-83148a278/details/experience/)
