@@ -12,6 +12,8 @@ Algorithms @ tlab           '25-26
 SNN @ tlab                  '24-25
 ```
 
+I enjoy reading and jogging in my free time. I hope to someday make a fundamental breakthrough.
+
 ### Reach me
 
 - 📫 `echen1ffa@gmail.com`
